@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1023184435394",
+    "firebase_url": "https://quicksterr-20.firebaseio.com",
+    "project_id": "quicksterr-20",
+    "storage_bucket": "quicksterr-20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023184435394:android:205e4ab6fe07b89157a35b",
+        "android_client_info": {
+          "package_name": "com.quicksterr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023184435394-jli987mkc81q15j7al18otp4uh91ckeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quicksterr",
+            "certificate_hash": "18af356f0fdb118ecb220a3bc2807581636b6db8"
+          }
+        },
+        {
+          "client_id": "1023184435394-o4qncj8ip228ccu5kp56bppq96r5dcr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfJcIalmEu7or3SwxnBU4X0oT7pcUVLWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023184435394-o4qncj8ip228ccu5kp56bppq96r5dcr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
